@@ -1,238 +1,96 @@
-# 🚀 README.md — BRAYAN | JARVIS SYSTEM
+# 🚀 README.md — BRAYAN
 
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,20:00F5FF,50:111827,80:7C3AED,100:05070A&height=260&section=header&text=BRAYAN%20%7C%20SISTEMA%20ONLINE&fontSize=38&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=DESENVOLVIMENTO%20•%20TECNOLOGIA%20•%20GAMES%20•%20AUTOMAÇÃO&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,40:00F5FF,100:7C3AED&height=220&section=header&text=BRAYAN%20RODRIGUES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20evolução%20•%20Node.js%20•%20Python%20•%20GameMaker&descAlignY=60&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=%3E+INICIANDO+SISTEMA...;%3E+CARREGANDO+M%C3%93DULO+DE+DESENVOLVIMENTO...;%3E+MILITAR+%2B+PROGRAMADOR+EM+EVOLU%C3%87%C3%83O;%3E+CRIANDO+SISTEMAS+REAIS+COM+NODE.JS+E+PYTHON;%3E+DESENVOLVENDO+JOGOS+E+PROJETOS+PR%C3%93PRIOS;%3E+OBJETIVO%3A+TORNAR-SE+ANALISTA+DE+SISTEMAS" alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Militar+%2B+Programador+em+forma%C3%A7%C3%A3o;Construindo+sistemas+reais+com+Node.js;Aprendendo+Python+e+desenvolvimento+web;Criando+jogos+com+GameMaker;Objetivo%3A+Analista+de+Sistemas" alt="Typing SVG"/>
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00F5FF?style=for-the-badge&labelColor=05070A">
-<img src="https://img.shields.io/badge/MODO-DESENVOLVIMENTO-7C3AED?style=for-the-badge&labelColor=05070A">
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-00F5FF?style=for-the-badge&labelColor=05070A">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=brayan508&label=VISUALIZAÇÕES&color=00F5FF&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/brayan508?label=SEGUIDORES&style=for-the-badge&color=7C3AED&labelColor=05070A">
-<img src="https://img.shields.io/github/stars/brayan508?label=ESTRELAS&style=for-the-badge&color=00F5FF&labelColor=05070A">
+<img src="https://komarev.com/ghpvc/?username=brayan508&label=VISUALIZA%C3%87%C3%95ES&color=00F5FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/brayan508?label=SEGUIDORES&style=for-the-badge&color=7C3AED&labelColor=05070A"/>
+<img src="https://img.shields.io/github/stars/brayan508?label=ESTRELAS&style=for-the-badge&color=00F5FF&labelColor=05070A"/>
 
 </div>
 
 ---
 
-# 🧠 > SOBRE_MIM.exe
+# 👨‍💻 Sobre mim
 
-```yaml
-nome: Brayan
-idade: 22
-país: Brasil 🇧🇷
+Sou **militar temporário** e estou migrando para a área de **tecnologia e desenvolvimento de software**.
 
-ocupação_atual:
-  - Militar Temporário
+Atualmente estudo desenvolvimento **web fullstack**, **back-end**, **banco de dados** e **desenvolvimento de jogos**, sempre tentando transformar aprendizado em **projetos reais**.
 
-objetivo_profissional:
-  - Desenvolvedor
-  - Analista de Sistemas
+### 🎯 Foco atual
 
-foco_atual:
-  - Desenvolvimento Web
-  - Back-end
-  - APIs REST
-  - Banco de Dados
-  - Automação
-  - Desenvolvimento de Jogos
-
-linguagens_principais:
-  - JavaScript
-  - Python
-  - HTML
-  - CSS
-  - GML
-
-tecnologias:
-  - Node.js
-  - Express
-  - MySQL
-  - Bootstrap
-  - Git
-  - GitHub
-
-status:
-  sistema: ONLINE
-  aprendizado: ATIVO
-  projetos: EM_EXECUÇÃO
-````
-
-<div align="center">
-
-> ⚡ **Transformando disciplina, curiosidade e prática em código.**
-
-</div>
-
-Tenho interesse em **criar sistemas que realmente funcionem**, aprender desenvolvimento de software na prática e transformar ideias em projetos.
-
-Atualmente venho explorando principalmente:
-
-```text
-[ WEB ]       → Node.js • Express • HTML • CSS • Bootstrap
-[ BANCO ]     → MySQL • XAMPP
-[ SCRIPT ]    → Python • JavaScript
-[ GAMES ]     → GameMaker • GML • Unity
-[ VERSION ]   → Git • GitHub
-```
-
-Também gosto de explorar **desenvolvimento de jogos, automação, interfaces, sistemas financeiros e projetos experimentais**.
+* ⚙️ **Node.js + Express**
+* 🗄️ **MySQL**
+* 🐍 **Python**
+* 🌐 **HTML, CSS e Bootstrap**
+* 🎮 **GameMaker + GML**
+* 🔧 **Git e GitHub**
 
 ---
 
-# ⚙️ > MINHA_TECH_STACK.sys
+# ⚡ Tecnologias
 
 <div align="center">
 
-### 💻 Linguagens
-
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
-
-<br><br>
-
-### 🚀 Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap,mysql" />
-
-<br><br>
-
-### 🎮 Desenvolvimento de Jogos
-
-<img src="https://skillicons.dev/icons?i=unity,gamemakerstudio" />
-
-<br><br>
-
-### 🛠️ Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,xampp,blender" />
-
-<br><br>
-
-### 🖥️ Sistemas
-
-<img src="https://skillicons.dev/icons?i=windows,linux,bash" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,mysql,bootstrap,git,github,vscode,gamemakerstudio,unity"/>
 
 </div>
 
 ---
 
-# 🧰 > FERRAMENTAS_UTILIZADAS.dll
+# 🛠️ Ferramentas
 
 <div align="center">
 
-| Área                   | Tecnologias                         |
-| ---------------------- | ----------------------------------- |
-| 🌐 **Front-end**       | HTML • CSS • Bootstrap • JavaScript |
-| ⚙️ **Back-end**        | Node.js • Express • Python • Flask  |
-| 🗄️ **Banco de Dados** | MySQL • XAMPP                       |
-| 🎮 **Game Dev**        | GameMaker Studio • GML • Unity      |
-| 🔧 **Versionamento**   | Git • GitHub                        |
-| 🧠 **Programação**     | JavaScript • Python • GML           |
-| 🎨 **Criação**         | Bootstrap • Blender                 |
-| 🖥️ **Ambiente**       | Windows • Linux • Bash              |
+| Área               | Ferramentas                |
+| ------------------ | -------------------------- |
+| 💻 Editor          | VS Code • Visual Studio    |
+| ⚙️ Back-end        | Node.js • Express • Flask  |
+| 🗄️ Banco de Dados | MySQL • XAMPP              |
+| 🎮 Game Dev        | GameMaker Studio 2 • Unity |
+| 🔧 Versionamento   | Git • GitHub               |
 
 </div>
 
 ---
 
-# 📦 > PROJETOS.principais
+# 📦 Projetos
 
 <div align="center">
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💰 Sistema Financeiro
 
-Sistema desenvolvido para praticar **back-end, banco de dados, autenticação e integração entre front-end e servidor**.
+Projeto fullstack para controle financeiro pessoal.
 
-```text
-Node.js
-Express
-MySQL
-Bootstrap
-JavaScript
-bcrypt
-```
+**Tecnologias:** Node.js • Express • MySQL • Bootstrap
 
 <a href="https://github.com/brayan508/Sistema_financeiro_simples">
-<img src="https://img.shields.io/badge/VER_PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=05070A">
+<img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-00F5FF?style=for-the-badge&logo=github&logoColor=05070A"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🎮 Projetos GameMaker
 
-## 🎮 Desenvolvimento de Jogos
+Experimentos com movimentação, animações, câmera, combate e sistemas de gameplay.
 
-Projetos em desenvolvimento utilizando **GameMaker Studio**, explorando movimentação, animações, sprites, câmera, combate e sistemas de gameplay.
-
-```text
-GameMaker
-GML
-Pixel Art
-Game Design
-```
+**Tecnologias:** GameMaker • GML • Pixel Art
 
 <a href="https://github.com/brayan508">
-<img src="https://img.shields.io/badge/VER_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/MEUS%20PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Sistemas Web
-
-Projetos para praticar criação de **interfaces modernas, dashboards e sistemas administrativos**.
-
-```text
-HTML
-CSS
-Bootstrap
-JavaScript
-Node.js
-```
-
-<a href="https://github.com/brayan508">
-<img src="https://img.shields.io/badge/EXPLORAR-00F5FF?style=for-the-badge&logo=html5&logoColor=05070A">
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🎥 EntendaGames
-
-Projeto de conteúdo focado em **games, tecnologia e curiosidades sobre como jogos e sistemas são construídos**.
-
-```text
-Games
-Tecnologia
-Curiosidades
-Conteúdo
-```
-
-<a href="https://github.com/brayan508">
-<img src="https://img.shields.io/badge/PROJETO-7C3AED?style=for-the-badge&logo=gamepad&logoColor=FFFFFF">
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -240,191 +98,94 @@ Conteúdo
 
 ---
 
-# 🖥️ > OBJETIVOS_ATUAIS.terminal
+# 🖥️ Objetivos atuais
 
-```bash
-C:\BRAYAN\SISTEMA> carregar_objetivos.exe
+<pre><code>C:\Brayan> objetivos.exe
 
-[✓] Aprender JavaScript
-[✓] Criar APIs com Node.js
-[✓] Trabalhar com Express
-[✓] Integrar MySQL em aplicações
-[✓] Utilizar Git e GitHub
-[✓] Criar projetos próprios
+[✓] Aprender JavaScript moderno
+[✓] Criar APIs REST com Express
+[✓] Integrar MySQL em projetos reais
+[✓] Publicar projetos no GitHub
 
-[~] Melhorar arquitetura de sistemas
+[~] Melhorar arquitetura de software
 [~] Evoluir em Python
-[~] Desenvolver projetos mais completos
-[~] Melhorar conhecimento de APIs
-[~] Construir portfólio profissional
+[~] Criar projetos maiores
 
 [ ] Aprender React
 [ ] Aprender Docker
-[ ] Aprofundar Linux
-[ ] Desenvolver aplicações maiores
-[ ] Trabalhar profissionalmente com tecnologia
+[ ] Conseguir vaga como Desenvolvedor Júnior
 
------------------------------------------------
-
-STATUS............ APRENDIZADO CONTÍNUO
-MODO.............. CONSTRUÇÃO
-OBJETIVO.......... ANALISTA DE SISTEMAS
-PRÓXIMA_MISSÃO.... BUILD_REAL_PROJECTS
-```
+STATUS: EM EVOLUÇÃO 🚀</code></pre>
 
 ---
 
-# 🧩 > MISSÃO_PROFISSIONAL.exe
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    MISSÃO PRINCIPAL                     │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  TRANSFORMAR IDEIAS EM SOFTWARE                        │
-│                                                         │
-│  Aprender → Construir → Errar → Corrigir → Evoluir    │
-│                                                         │
-│  OBJETIVO FINAL:                                       │
-│  Desenvolver sistemas úteis e trabalhar com tecnologia │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-> Minha meta não é apenas aprender sintaxe.
-> Quero entender **como sistemas funcionam, como são construídos e como resolver problemas reais através da programação**.
-
----
-
-# 📊 > GITHUB_ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayan508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00F5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayan508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan508&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00F5FF&text_color=C9D1D9"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img width="78%" src="https://streak-stats.demolab.com?user=brayan508&theme=tokyonight&hide_border=true&background=05070A&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=brayan508&theme=tokyonight&hide_border=true&background=05070A&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
 ---
 
-# 📈 > ATIVIDADE_GITHUB.svg
+# 📈 Atividade
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=brayan508&custom_title=ATIVIDADE%20DO%20SISTEMA&bg_color=05070A&color=00F5FF&line=7C3AED&point=00F5FF&area=true&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=brayan508&custom_title=ATIVIDADE%20NO%20GITHUB&bg_color=05070A&color=00F5FF&line=7C3AED&point=00F5FF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 > CONQUISTAS.trophies
+# 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=brayan508&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=brayan508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 > COBRA_DE_CONTRIBUIÇÕES.anim
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-<img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-</picture>
-
-</div>
-
----
-
-# 🧠 > FILOSOFIA.dev
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  NÃO PRECISO SABER TUDO.                           │
-│  PRECISO CONTINUAR APRENDENDO.                     │
-│                                                     │
-│  CÓDIGO → ERRO → DEBUG → APRENDIZADO → EVOLUÇÃO   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🌐 > CONECTE_SE_COMIGO.net
+# 🌐 Redes sociais
 
 <div align="center">
 
 <a href="https://github.com/brayan508">
-<img src="https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=00F5FF">
+<img src="https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF">
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
 ---
 
-# ☕ > SISTEMA.log
+# ☕ Filosofia
 
 <div align="center">
 
-```text
-[JARVIS CORE v4.0]
+> **“Da disciplina do quartel para a lógica do código.”**
 
-╔══════════════════════════════════════════════╗
-║ STATUS DO USUÁRIO                            ║
-╠══════════════════════════════════════════════╣
-║                                             ║
-║ DISCIPLINA ................... ATIVA        ║
-║ APRENDIZADO .................. ATIVO        ║
-║ PROGRAMAÇÃO .................. ATIVA        ║
-║ PROJETOS ..................... EM EXECUÇÃO  ║
-║ CRIATIVIDADE ................. ONLINE       ║
-║                                             ║
-║ PERFIL: MILITAR + DESENVOLVEDOR             ║
-║ OBJETIVO: SOFTWARE ENGINEER                 ║
-║                                             ║
-╚══════════════════════════════════════════════╝
-```
-
-### ⚡ **"Da disciplina do quartel para a lógica do código."**
+Aprender → Construir → Errar → Corrigir → Evoluir
 
 </div>
 
@@ -432,27 +193,8 @@ PRÓXIMA_MISSÃO.... BUILD_REAL_PROJECTS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,30:00F5FF,70:7C3AED,100:05070A&height=170&section=footer&text=SISTEMA%20EM%20ESPERA&fontSize=26&fontColor=E6EDF3&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,40:00F5FF,100:7C3AED&height=140&section=footer&text=OBRIGADO%20PELA%20VISITA&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
-**Desenvolvido por Brayan • Brasil 🇧🇷**
-
-<img src="https://img.shields.io/badge/FEITO_COM-C%C3%93DIGO_☕_E_DISCIPLINA-05070A?style=for-the-badge&labelColor=05070A&color=00F5FF">
+### ⭐ Se curtir meus projetos, deixe uma estrela nos repositórios!
 
 </div>
-```
-
-### 🔧 Antes de publicar
-
-Troque somente estes campos:
-
-```text
-SEU_LINKEDIN
-SEU_INSTAGRAM
-SEU_EMAIL
-```
-
-O restante já está direcionado para o perfil `brayan508`, incluindo o seu projeto **Sistema Financeiro**.
-
-### ⚠️ Importante sobre o Snake
-
-Para a animação da cobra funcionar corretamente no seu próprio perfil, você precisa configurar o workflow do **Platane/snk** no repositório `brayan508`. O SVG remoto sozinho não gera a animação.
