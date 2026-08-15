@@ -20,7 +20,7 @@
 
 Sou **militar temporário** e estou migrando para a área de **tecnologia e desenvolvimento de software**.
 
-Atualmente estudo desenvolvimento **web fullstack**, **back-end**, **banco de dados** e **desenvolvimento de jogos**, sempre tentando transformar aprendizado em **projetos reais**.
+Atualmente estudo desenvolvimento **web fullstack**, **back-end** e **banco de dados**, sempre tentando transformar aprendizado em **projetos reais**.
 
 ### 🎯 Foco atual
 
