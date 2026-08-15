@@ -26,9 +26,7 @@ Atualmente estudo desenvolvimento **web fullstack**, **back-end**, **banco de da
 
 * ⚙️ **Node.js + Express**
 * 🗄️ **MySQL**
-* 🐍 **Python**
 * 🌐 **HTML, CSS e Bootstrap**
-* 🎮 **GameMaker + GML**
 * 🔧 **Git e GitHub**
 
 ---
@@ -37,7 +35,7 @@ Atualmente estudo desenvolvimento **web fullstack**, **back-end**, **banco de da
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,mysql,bootstrap,git,github,vscode,gamemakerstudio,unity"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql,bootstrap,git,github,vscode"/>
 
 </div>
 
