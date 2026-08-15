@@ -48,9 +48,8 @@ Atualmente estudo desenvolvimento **web fullstack**, **back-end**, **banco de da
 | Área               | Ferramentas                |
 | ------------------ | -------------------------- |
 | 💻 Editor          | VS Code • Visual Studio    |
-| ⚙️ Back-end        | Node.js • Express • Flask  |
+| ⚙️ Back-end        | Node.js • Express  |
 | 🗄️ Banco de Dados | MySQL • XAMPP              |
-| 🎮 Game Dev        | GameMaker Studio 2 • Unity |
 | 🔧 Versionamento   | Git • GitHub               |
 
 </div>
@@ -76,19 +75,7 @@ Projeto fullstack para controle financeiro pessoal.
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-## 🎮 Projetos GameMaker
-
-Experimentos com movimentação, animações, câmera, combate e sistemas de gameplay.
-
-**Tecnologias:** GameMaker • GML • Pixel Art
-
-<a href="https://github.com/brayan508">
-<img src="https://img.shields.io/badge/MEUS%20PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</td>
 </tr>
 </table>
 
@@ -106,7 +93,6 @@ Experimentos com movimentação, animações, câmera, combate e sistemas de gam
 [✓] Publicar projetos no GitHub
 
 [~] Melhorar arquitetura de software
-[~] Evoluir em Python
 [~] Criar projetos maiores
 
 [ ] Aprender React
@@ -143,17 +129,6 @@ STATUS: EM EVOLUÇÃO 🚀</code></pre>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=brayan508&custom_title=ATIVIDADE%20NO%20GITHUB&bg_color=05070A&color=00F5FF&line=7C3AED&point=00F5FF&area=true&hide_border=true"/>
 
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=brayan508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4"/>
-
-</div>
 
 ---
 
@@ -165,12 +140,8 @@ STATUS: EM EVOLUÇÃO 🚀</code></pre>
 <img src="https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/brayan-rodrigues-a16046349/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 </div>
