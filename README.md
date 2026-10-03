@@ -125,7 +125,7 @@ STATUS: EM EVOLUÇÃO 🚀</code></pre>
 
 <div align="center">
 
-> **“Da disciplina do quartel para a lógica do código.”**
+> **“Repetição até a exaustão, com correção leva a perfeição!.”**
 
 Aprender → Construir → Errar → Corrigir → Evoluir
 
