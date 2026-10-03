@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,40:00F5FF,100:7C3AED&height=220&section=header&text=BRAYAN%20RODRIGUES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20evolução%20•%20Node.js%20•%20Python%20•%20GameMaker&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,40:00F5FF,100:7C3AED&height=220&section=header&text=BRAYAN%20RODRIGUES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20evolução%20•%20Node.js%20&descAlignY=60&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Militar+%2B+Programador+em+forma%C3%A7%C3%A3o;Construindo+sistemas+reais+com+Node.js;Aprendendo+Python+e+desenvolvimento+web;Criando+jogos+com+GameMaker;Objetivo%3A+Analista+de+Sistemas" alt="Typing SVG"/>
 
@@ -51,33 +51,6 @@ Atualmente estudo desenvolvimento **web fullstack**, **back-end** e **banco de d
 | ⚙️ Back-end        | Node.js • Express  |
 | 🗄️ Banco de Dados | MySQL • XAMPP              |
 | 🔧 Versionamento   | Git • GitHub               |
-
-</div>
-
----
-
-# 📦 Projetos
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 💰 Sistema Financeiro
-
-Projeto fullstack para controle financeiro pessoal.
-
-**Tecnologias:** Node.js • Express • MySQL • Bootstrap
-
-<a href="https://github.com/brayan508/Sistema_financeiro_simples">
-<img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-00F5FF?style=for-the-badge&logo=github&logoColor=05070A"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
